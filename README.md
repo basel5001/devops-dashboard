@@ -1,3 +1,6 @@
+![CI](https://github.com/basel5001/devops-dashboard/actions/workflows/ci.yml/badge.svg)
+![Security](https://github.com/basel5001/devops-dashboard/actions/workflows/security.yml/badge.svg)
+
 # DevOps Dashboard - DORA Metrics
 
 A Python FastAPI application that collects [DORA metrics](https://dora.dev/) from GitHub repositories and displays them in a real-time web dashboard.
